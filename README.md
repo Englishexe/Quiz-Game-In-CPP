@@ -11,7 +11,7 @@
 <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1736px-GNU_Compiler_Collection_logo.svg.png" alt="GCC" width="40" height="45"/> </a>
 <h3 align="left"><u>Description:</u></h3>
-<p align="left">Using CPP, VScode and GCC I have created q quiz game. When ran the first question will appear (What year was C++ created?) the user will be displayed 4 options, they can choose one by typing in the corresponding letter below. Once the user made their selection the program will check if the answer was correct, if it was the score variable will increase by one, if not the correct answer will be displayed.</p>
+<p align="left">Using CPP, VScode and GCC I have created a quiz game. When ran the first question will appear (What year was C++ created?) the user will be displayed 4 options, they can choose one by typing in the corresponding letter below. Once the user made their selection the program will check if the answer was correct, if it was the score variable will increase by one, if not the correct answer will be displayed.</p>
 <h3 align="left"><u>Developer Docs</u></h3>
 <h4>For forking & bug fixing - Incomplete</h4>
 <p align="left">Variables:<br>questions (array) - Contains all 4 questions<br>options (2d array) - Contains all possible options for each question<br>answerKey (array) - Contains the correct answer letters<br>size ( int) - Contains the size of questions<br>guess (char) - Contains the users guess<br>score (int) - The users score in numbers</p>
